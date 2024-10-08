@@ -1,0 +1,19 @@
+{
+  "name": "praktikum-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha latihantest.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  },
+  "dependencies": {
+    "chai": "^4.5.0"
+  }
+}
